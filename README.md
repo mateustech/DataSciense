@@ -1,2 +1,2 @@
-# Listar TO DO's com JavaScript e LocalStorange do Navegador
+# TO DO's com JavaScript e LocalStorange do Navegador
 
